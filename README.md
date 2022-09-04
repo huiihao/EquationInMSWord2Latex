@@ -1,0 +1,1 @@
+# EquationInMSWord2Latex
